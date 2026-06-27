@@ -1,0 +1,8 @@
+pymupdf
+fastapi
+uvicorn
+python-multipart
+langchain-text-splitters
+sentence_transformers
+faiss-cpu
+google-genai
